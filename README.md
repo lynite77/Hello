@@ -1,2 +1,3 @@
-*Hello World!!!
-***Java Script
+# HelloJava
+### 자바 스터디 샘플
+#### 자바의 핵심 문법을 위한 샘플 제공
